@@ -1,0 +1,20 @@
+Weapon,Category,Cost,Fire Mode,Fire Rate (rounds/sec),Magazine Size,Head Damage (0-30m),Body Damage (0-30m),Leg Damage (0-30m),Reload Time (sec),Special Notes
+Classic,Sidearm,0,Semi-Auto,6.75,12,78,66,26,1.75,Right-click burst fire
+Shorty,Sidearm,150,Semi-Auto,3.3,2,36,24,12,1.0,Double barrel shotgun
+Frenzy,Sidearm,450,Full-Auto,10,13,78,63,26,1.5,Fast fire rate
+Ghost,Sidearm,500,Semi-Auto,6.75,15,105,88,30,1.5,"Silenced, accurate"
+Sheriff,Sidearm,800,Semi-Auto,4,6,159,145,55,2.25,High damage revolver
+Stinger,SMG,950,Full-Auto,18,20,67,62,27,2.25,"Right-click burst, fast"
+Spectre,SMG,1600,Full-Auto,13.33,30,78,66,26,2.25,"Silenced, versatile"
+Bucky,Shotgun,850,Semi-Auto,1.1,5,44,34,22,2.5,Right-click slug
+Judge,Shotgun,1850,Full-Auto,3.5,7,34,26,17,2.2,Auto shotgun
+Bulldog,Rifle,2050,Full-Auto,9.15,24,116,104,35,2.5,Right-click burst ADS
+Guardian,Rifle,2250,Semi-Auto,5.25,12,195,163,65,2.5,DMR style
+Phantom,Rifle,2900,Full-Auto,11,30,156,140,39,2.5,"Silenced, no tracers"
+Vandal,Rifle,2900,Full-Auto,9.75,25,160,160,40,2.5,One-tap headshot any range
+Marshal,Sniper,950,Semi-Auto,1.5,5,202,189,101,2.5,"Budget sniper, mobile"
+Outlaw,Sniper,2400,Semi-Auto,0.75,2,238,225,140,2.7,Double barrel sniper
+Operator,Sniper,4700,Semi-Auto,0.6,5,255,255,150,3.7,One-shot body kill
+Ares,Machine Gun,1600,Full-Auto,13,50,72,67,30,3.25,"High ammo, wall pen"
+Odin,Machine Gun,3200,Full-Auto,15.6,100,95,77,38,5.0,High damage LMG
+Knife,Melee,0,Melee,0,0,50,50,75,0,Right-click 75 damage

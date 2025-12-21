@@ -1,0 +1,181 @@
+Map,Side,Location,Situation,Option1,Option2,Option3,Option4,CorrectOption,Explanation
+Bind,A,B Long,1v3 clutch,fight all 3,isolate fights,give up,hide until time,1,Isolating 1v1s is the only way to win 1vX.
+Icebox,A,B Orange,operator holding angle,ignore the angle,smoke and flash,slow peek,wide swing,1,Utility counters OPs. Dry peeking an OP is death.
+Fracture,A,Dish,planting spike,rush in alone,play for retake,hide in corner,save weapon,1,Retaking together with utility gives best odds.
+Sunset,A,B Site,post-plant 1v1,play the bomb,defuse immediately,hunt the enemy,hide far from bomb,0,In post-plant the bomb is your advantage.
+Bind,D,B Long,smoke deployed,run through smoke,spam through smoke,flash yourself,wait or rotate,3,Pushing smokes blindly gets you killed.
+Haven,D,A Site,rotating enemy,follow behind,ignore rotation,stay on site,cut them off,3,Cutting rotations gets free kills.
+Haven,D,A Site,eco round,buy expensive gun,go alone,full execute,play for exit frags,3,Exit frags build economy and damage enemy money.
+Fracture,A,Dish,1v3 clutch,fight all 3,hide until time,isolate fights,give up,2,Isolating 1v1s is the only way to win 1vX.
+Split,A,B Main,operator holding angle,smoke and flash,ignore the angle,slow peek,wide swing,0,Utility counters OPs. Dry peeking an OP is death.
+Sunset,D,B Market,1v3 clutch,isolate fights,fight all 3,hide until time,give up,0,Isolating 1v1s is the only way to win 1vX.
+Lotus,A,C Mound,enemy saving,let them go,plant and hide,buy next round,hunt them down,3,Hunting saves denies enemy economy.
+Ascent,D,B Site,rush detected,save weapon,rotate immediately,use utility to delay,peek them,2,Utility slows rushes and buys time for rotations.
+Sunset,A,Courtyard,1v3 clutch,hide until time,fight all 3,give up,isolate fights,3,Isolating 1v1s is the only way to win 1vX.
+Pearl,D,A Main,spike down open,leave it,smoke and grab,peek first then grab,wait for team,1,Smoking the spike lets you grab safely.
+Split,A,A Main,planting spike,play for retake,save weapon,hide in corner,rush in alone,0,Retaking together with utility gives best odds.
+Breeze,D,A Hall,smoke deployed,flash yourself,run through smoke,wait or rotate,spam through smoke,2,Pushing smokes blindly gets you killed.
+Sunset,A,B Market,spike down open,leave it,wait for team,smoke and grab,peek first then grab,2,Smoking the spike lets you grab safely.
+Breeze,D,Mid,smoke deployed,flash yourself,spam through smoke,run through smoke,wait or rotate,3,Pushing smokes blindly gets you killed.
+Haven,D,C Site,eco round,go alone,full execute,play for exit frags,buy expensive gun,2,Exit frags build economy and damage enemy money.
+Icebox,A,B Site,retake 2v1,both plant,go one by one,trade together,save weapons,2,Trading ensures the other gets the kill.
+Split,A,A Main,fake detected,hold position,full rotate,push out,call for backup,0,Holding against fakes prevents over-rotation.
+Split,D,B Site,full buy round,lurk alone,execute with utility,rush without smokes,save abilities,1,Full buys need coordinated utility usage.
+Ascent,D,B Main,post-plant 1v1,play the bomb,defuse immediately,hunt the enemy,hide far from bomb,0,In post-plant the bomb is your advantage.
+Ascent,A,A Site,flank spotted,chase the flanker,ignore it,rotate away,call it out and hold,3,Calling flanks lets your team adjust.
+Ascent,D,B Site,smoke deployed,run through smoke,wait or rotate,spam through smoke,flash yourself,1,Pushing smokes blindly gets you killed.
+Pearl,A,A Site,aggressive push,use ult,fall back,plant spike,push alone,1,Falling back against aggression allows your team to regroup and trade.
+Icebox,A,A Site,spike down open,smoke and grab,wait for team,peek first then grab,leave it,0,Smoking the spike lets you grab safely.
+Haven,A,Garage,retake 2v1,both plant,save weapons,trade together,go one by one,2,Trading ensures the other gets the kill.
+Fracture,A,A Site,rotating enemy,stay on site,cut them off,ignore rotation,follow behind,1,Cutting rotations gets free kills.
+Ascent,A,A Site,smoke deployed,flash yourself,wait or rotate,spam through smoke,run through smoke,1,Pushing smokes blindly gets you killed.
+Sunset,D,A Main,rotating enemy,cut them off,stay on site,ignore rotation,follow behind,0,Cutting rotations gets free kills.
+Split,D,Mid,spike down open,peek first then grab,wait for team,leave it,smoke and grab,3,Smoking the spike lets you grab safely.
+Bind,D,Hookah,retake 2v1,both plant,save weapons,trade together,go one by one,2,Trading ensures the other gets the kill.
+Ascent,D,Mid,planting spike,play for retake,hide in corner,rush in alone,save weapon,0,Retaking together with utility gives best odds.
+Breeze,D,Mid,planting spike,save weapon,play for retake,hide in corner,rush in alone,1,Retaking together with utility gives best odds.
+Split,D,B Site,1v3 clutch,isolate fights,fight all 3,hide until time,give up,0,Isolating 1v1s is the only way to win 1vX.
+Split,D,B Main,spike down open,smoke and grab,peek first then grab,leave it,wait for team,0,Smoking the spike lets you grab safely.
+Breeze,D,A Site,full buy round,execute with utility,save abilities,rush without smokes,lurk alone,0,Full buys need coordinated utility usage.
+Lotus,D,A Main,enemy saving,plant and hide,buy next round,hunt them down,let them go,2,Hunting saves denies enemy economy.
+Sunset,A,A Site,flank spotted,chase the flanker,call it out and hold,ignore it,rotate away,1,Calling flanks lets your team adjust.
+Fracture,D,Tower,aggressive push,plant spike,push alone,fall back,use ult,2,Falling back against aggression allows your team to regroup and trade.
+Lotus,D,B Main,rotating enemy,follow behind,stay on site,cut them off,ignore rotation,2,Cutting rotations gets free kills.
+Lotus,A,A Site,1v3 clutch,give up,isolate fights,hide until time,fight all 3,1,Isolating 1v1s is the only way to win 1vX.
+Ascent,D,B Site,lurker spotted,all rotate,everyone peek,collapse on them,ignore them,2,Collapsing on a lurker gets a free kill.
+Sunset,D,B Site,spike down open,wait for team,leave it,peek first then grab,smoke and grab,3,Smoking the spike lets you grab safely.
+Fracture,A,Tower,teammate dies,wait 5 seconds,use ult,run away,trade immediately,3,Trading keeps numbers even.
+Pearl,D,Mid,spike down open,leave it,smoke and grab,wait for team,peek first then grab,1,Smoking the spike lets you grab safely.
+Ascent,D,A Main,defusing spike,run away,wait for explosion,use knife,peek and trade,3,You must stop the defuse. Trading 1 for 1 can win the round.
+Breeze,A,A Hall,smoke deployed,spam through smoke,wait or rotate,flash yourself,run through smoke,1,Pushing smokes blindly gets you killed.
+Breeze,D,B Main,low time remaining,fast execute,split up,save weapons,keep defaulting,0,Low time means commit now.
+Icebox,D,A Belt,smoke deployed,run through smoke,flash yourself,spam through smoke,wait or rotate,3,Pushing smokes blindly gets you killed.
+Bind,A,A Site,spike down open,smoke and grab,leave it,wait for team,peek first then grab,0,Smoking the spike lets you grab safely.
+Lotus,A,C Mound,fake detected,hold position,call for backup,full rotate,push out,0,Holding against fakes prevents over-rotation.
+Pearl,A,A Site,flank spotted,call it out and hold,rotate away,chase the flanker,ignore it,0,Calling flanks lets your team adjust.
+Breeze,A,A Site,enemy ult active,disengage,fight through it,use your ult,ignore it,0,Disengaging denies ult value.
+Pearl,A,B Main,enemy saving,hunt them down,let them go,plant and hide,buy next round,0,Hunting saves denies enemy economy.
+Icebox,A,A Site,rush detected,use utility to delay,rotate immediately,save weapon,peek them,0,Utility slows rushes and buys time for rotations.
+Breeze,D,B Site,full buy round,rush without smokes,execute with utility,lurk alone,save abilities,1,Full buys need coordinated utility usage.
+Icebox,D,B Site,fake detected,call for backup,full rotate,push out,hold position,3,Holding against fakes prevents over-rotation.
+Lotus,D,A Site,operator holding angle,smoke and flash,wide swing,ignore the angle,slow peek,0,Utility counters OPs. Dry peeking an OP is death.
+Split,A,A Main,teammate dies,use ult,run away,trade immediately,wait 5 seconds,2,Trading keeps numbers even.
+Breeze,A,Elbow,operator holding angle,smoke and flash,slow peek,wide swing,ignore the angle,0,Utility counters OPs. Dry peeking an OP is death.
+Pearl,A,A Main,enemy saving,hunt them down,buy next round,plant and hide,let them go,0,Hunting saves denies enemy economy.
+Icebox,A,A Site,defusing spike,run away,use knife,peek and trade,wait for explosion,2,You must stop the defuse. Trading 1 for 1 can win the round.
+Bind,D,Teleporter,fake detected,hold position,call for backup,push out,full rotate,0,Holding against fakes prevents over-rotation.
+Split,A,Mid,post-plant 1v1,play the bomb,hide far from bomb,hunt the enemy,defuse immediately,0,In post-plant the bomb is your advantage.
+Breeze,D,Elbow,full buy round,execute with utility,save abilities,rush without smokes,lurk alone,0,Full buys need coordinated utility usage.
+Bind,A,B Long,low time remaining,save weapons,keep defaulting,fast execute,split up,2,Low time means commit now.
+Fracture,D,Dish,full buy round,save abilities,lurk alone,execute with utility,rush without smokes,2,Full buys need coordinated utility usage.
+Pearl,D,A Main,operator holding angle,slow peek,ignore the angle,smoke and flash,wide swing,2,Utility counters OPs. Dry peeking an OP is death.
+Bind,D,Teleporter,aggressive push,push alone,plant spike,use ult,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Ascent,D,Market,enemy ult active,ignore it,disengage,fight through it,use your ult,1,Disengaging denies ult value.
+Split,D,A Site,1v3 clutch,hide until time,isolate fights,give up,fight all 3,1,Isolating 1v1s is the only way to win 1vX.
+Icebox,A,A Belt,aggressive push,plant spike,push alone,use ult,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Fracture,D,Tower,smoke deployed,run through smoke,wait or rotate,flash yourself,spam through smoke,1,Pushing smokes blindly gets you killed.
+Sunset,A,A Main,spike down open,peek first then grab,smoke and grab,wait for team,leave it,1,Smoking the spike lets you grab safely.
+Fracture,D,A Main,planting spike,save weapon,hide in corner,play for retake,rush in alone,2,Retaking together with utility gives best odds.
+Ascent,D,Mid,flank spotted,call it out and hold,ignore it,chase the flanker,rotate away,0,Calling flanks lets your team adjust.
+Lotus,D,C Mound,aggressive push,push alone,plant spike,use ult,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Pearl,D,Connector,enemy saving,hunt them down,buy next round,plant and hide,let them go,0,Hunting saves denies enemy economy.
+Sunset,D,B Market,eco round,buy expensive gun,go alone,play for exit frags,full execute,2,Exit frags build economy and damage enemy money.
+Bind,A,A Short,planting spike,rush in alone,play for retake,save weapon,hide in corner,1,Retaking together with utility gives best odds.
+Haven,D,C Site,defusing spike,wait for explosion,peek and trade,run away,use knife,1,You must stop the defuse. Trading 1 for 1 can win the round.
+Haven,D,Garage,planting spike,save weapon,play for retake,rush in alone,hide in corner,1,Retaking together with utility gives best odds.
+Icebox,D,Mid,low time remaining,keep defaulting,split up,save weapons,fast execute,3,Low time means commit now.
+Icebox,A,B Site,eco round,full execute,buy expensive gun,go alone,play for exit frags,3,Exit frags build economy and damage enemy money.
+Sunset,A,Courtyard,defusing spike,wait for explosion,peek and trade,use knife,run away,1,You must stop the defuse. Trading 1 for 1 can win the round.
+Lotus,A,C Site,defusing spike,use knife,wait for explosion,peek and trade,run away,2,You must stop the defuse. Trading 1 for 1 can win the round.
+Ascent,D,B Main,full buy round,lurk alone,rush without smokes,execute with utility,save abilities,2,Full buys need coordinated utility usage.
+Ascent,A,Mid,rush detected,save weapon,use utility to delay,rotate immediately,peek them,1,Utility slows rushes and buys time for rotations.
+Pearl,A,Mid,rotating enemy,ignore rotation,cut them off,stay on site,follow behind,1,Cutting rotations gets free kills.
+Haven,D,A Long,operator holding angle,wide swing,smoke and flash,slow peek,ignore the angle,1,Utility counters OPs. Dry peeking an OP is death.
+Bind,D,A Short,1v3 clutch,isolate fights,hide until time,fight all 3,give up,0,Isolating 1v1s is the only way to win 1vX.
+Fracture,D,B Arcade,retake 2v1,trade together,go one by one,both plant,save weapons,0,Trading ensures the other gets the kill.
+Sunset,A,Mid,1v3 clutch,isolate fights,give up,hide until time,fight all 3,0,Isolating 1v1s is the only way to win 1vX.
+Pearl,A,B Site,enemy ult active,disengage,ignore it,use your ult,fight through it,0,Disengaging denies ult value.
+Ascent,A,Market,full buy round,save abilities,rush without smokes,execute with utility,lurk alone,2,Full buys need coordinated utility usage.
+Breeze,A,B Site,rush detected,rotate immediately,peek them,save weapon,use utility to delay,3,Utility slows rushes and buys time for rotations.
+Bind,A,Hookah,planting spike,rush in alone,hide in corner,play for retake,save weapon,2,Retaking together with utility gives best odds.
+Ascent,A,A Main,rush detected,peek them,use utility to delay,save weapon,rotate immediately,1,Utility slows rushes and buys time for rotations.
+Lotus,D,C Site,retake 2v1,save weapons,go one by one,trade together,both plant,2,Trading ensures the other gets the kill.
+Fracture,D,B Site,fake detected,push out,full rotate,hold position,call for backup,2,Holding against fakes prevents over-rotation.
+Sunset,D,A Main,lurker spotted,ignore them,all rotate,collapse on them,everyone peek,2,Collapsing on a lurker gets a free kill.
+Icebox,A,Kitchen,lurker spotted,everyone peek,ignore them,collapse on them,all rotate,2,Collapsing on a lurker gets a free kill.
+Fracture,A,B Arcade,aggressive push,fall back,use ult,push alone,plant spike,0,Falling back against aggression allows your team to regroup and trade.
+Icebox,D,B Orange,enemy ult active,disengage,fight through it,use your ult,ignore it,0,Disengaging denies ult value.
+Lotus,A,B Site,defusing spike,wait for explosion,run away,peek and trade,use knife,2,You must stop the defuse. Trading 1 for 1 can win the round.
+Split,D,Vents,spike down open,wait for team,leave it,smoke and grab,peek first then grab,2,Smoking the spike lets you grab safely.
+Icebox,A,Kitchen,low time remaining,split up,keep defaulting,fast execute,save weapons,2,Low time means commit now.
+Fracture,D,B Arcade,full buy round,execute with utility,rush without smokes,save abilities,lurk alone,0,Full buys need coordinated utility usage.
+Lotus,D,A Main,operator holding angle,wide swing,ignore the angle,slow peek,smoke and flash,3,Utility counters OPs. Dry peeking an OP is death.
+Split,D,A Site,spike down open,peek first then grab,leave it,wait for team,smoke and grab,3,Smoking the spike lets you grab safely.
+Pearl,D,Connector,full buy round,lurk alone,execute with utility,rush without smokes,save abilities,1,Full buys need coordinated utility usage.
+Bind,D,Hookah,teammate dies,wait 5 seconds,run away,use ult,trade immediately,3,Trading keeps numbers even.
+Lotus,A,B Site,planting spike,save weapon,play for retake,hide in corner,rush in alone,1,Retaking together with utility gives best odds.
+Pearl,D,B Main,enemy saving,plant and hide,let them go,buy next round,hunt them down,3,Hunting saves denies enemy economy.
+Ascent,D,B Main,rush detected,use utility to delay,save weapon,rotate immediately,peek them,0,Utility slows rushes and buys time for rotations.
+Split,D,B Main,flank spotted,ignore it,rotate away,chase the flanker,call it out and hold,3,Calling flanks lets your team adjust.
+Lotus,A,B Main,retake 2v1,both plant,save weapons,trade together,go one by one,2,Trading ensures the other gets the kill.
+Icebox,A,B Orange,fake detected,push out,hold position,call for backup,full rotate,1,Holding against fakes prevents over-rotation.
+Breeze,A,B Main,full buy round,save abilities,execute with utility,lurk alone,rush without smokes,1,Full buys need coordinated utility usage.
+Icebox,D,A Belt,aggressive push,push alone,fall back,plant spike,use ult,1,Falling back against aggression allows your team to regroup and trade.
+Lotus,D,C Site,1v3 clutch,fight all 3,hide until time,isolate fights,give up,2,Isolating 1v1s is the only way to win 1vX.
+Pearl,D,B Site,retake 2v1,go one by one,trade together,both plant,save weapons,1,Trading ensures the other gets the kill.
+Breeze,A,A Hall,eco round,go alone,play for exit frags,buy expensive gun,full execute,1,Exit frags build economy and damage enemy money.
+Haven,D,A Long,planting spike,play for retake,rush in alone,save weapon,hide in corner,0,Retaking together with utility gives best odds.
+Bind,D,B Site,eco round,buy expensive gun,go alone,full execute,play for exit frags,3,Exit frags build economy and damage enemy money.
+Haven,A,C Long,teammate dies,trade immediately,run away,use ult,wait 5 seconds,0,Trading keeps numbers even.
+Fracture,D,B Site,fake detected,push out,call for backup,hold position,full rotate,2,Holding against fakes prevents over-rotation.
+Fracture,D,A Site,1v3 clutch,give up,hide until time,fight all 3,isolate fights,3,Isolating 1v1s is the only way to win 1vX.
+Sunset,A,A Site,enemy saving,plant and hide,buy next round,hunt them down,let them go,2,Hunting saves denies enemy economy.
+Bind,D,B Site,full buy round,rush without smokes,lurk alone,save abilities,execute with utility,3,Full buys need coordinated utility usage.
+Haven,A,A Site,defusing spike,run away,use knife,wait for explosion,peek and trade,3,You must stop the defuse. Trading 1 for 1 can win the round.
+Fracture,A,A Site,rush detected,save weapon,use utility to delay,peek them,rotate immediately,1,Utility slows rushes and buys time for rotations.
+Pearl,A,A Site,planting spike,save weapon,rush in alone,play for retake,hide in corner,2,Retaking together with utility gives best odds.
+Haven,A,C Long,smoke deployed,run through smoke,flash yourself,spam through smoke,wait or rotate,3,Pushing smokes blindly gets you killed.
+Icebox,D,Kitchen,aggressive push,plant spike,use ult,push alone,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Sunset,A,Mid,teammate dies,use ult,trade immediately,run away,wait 5 seconds,1,Trading keeps numbers even.
+Split,A,Vents,low time remaining,keep defaulting,save weapons,split up,fast execute,3,Low time means commit now.
+Breeze,A,B Main,smoke deployed,wait or rotate,run through smoke,spam through smoke,flash yourself,0,Pushing smokes blindly gets you killed.
+Icebox,D,Mid,planting spike,save weapon,rush in alone,hide in corner,play for retake,3,Retaking together with utility gives best odds.
+Split,A,Mid,full buy round,lurk alone,rush without smokes,save abilities,execute with utility,3,Full buys need coordinated utility usage.
+Split,D,Vents,smoke deployed,wait or rotate,flash yourself,spam through smoke,run through smoke,0,Pushing smokes blindly gets you killed.
+Haven,A,C Long,lurker spotted,everyone peek,ignore them,collapse on them,all rotate,2,Collapsing on a lurker gets a free kill.
+Bind,D,A Site,fake detected,call for backup,hold position,full rotate,push out,1,Holding against fakes prevents over-rotation.
+Haven,A,B Site,enemy ult active,fight through it,disengage,use your ult,ignore it,1,Disengaging denies ult value.
+Sunset,A,A Site,smoke deployed,wait or rotate,run through smoke,spam through smoke,flash yourself,0,Pushing smokes blindly gets you killed.
+Lotus,A,A Site,rotating enemy,stay on site,ignore rotation,follow behind,cut them off,3,Cutting rotations gets free kills.
+Ascent,A,Market,eco round,full execute,go alone,buy expensive gun,play for exit frags,3,Exit frags build economy and damage enemy money.
+Bind,D,Teleporter,enemy ult active,disengage,ignore it,fight through it,use your ult,0,Disengaging denies ult value.
+Sunset,D,Mid,defusing spike,use knife,run away,wait for explosion,peek and trade,3,You must stop the defuse. Trading 1 for 1 can win the round.
+Sunset,D,B Site,aggressive push,fall back,push alone,use ult,plant spike,0,Falling back against aggression allows your team to regroup and trade.
+Haven,D,B Site,1v3 clutch,hide until time,isolate fights,fight all 3,give up,1,Isolating 1v1s is the only way to win 1vX.
+Sunset,A,Courtyard,lurker spotted,ignore them,collapse on them,everyone peek,all rotate,1,Collapsing on a lurker gets a free kill.
+Haven,A,B Site,eco round,full execute,buy expensive gun,go alone,play for exit frags,3,Exit frags build economy and damage enemy money.
+Ascent,D,A Site,low time remaining,keep defaulting,save weapons,fast execute,split up,2,Low time means commit now.
+Bind,D,B Site,spike down open,wait for team,peek first then grab,leave it,smoke and grab,3,Smoking the spike lets you grab safely.
+Icebox,D,Mid,aggressive push,push alone,plant spike,use ult,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Pearl,A,Connector,fake detected,call for backup,hold position,full rotate,push out,1,Holding against fakes prevents over-rotation.
+Fracture,A,B Site,spike down open,peek first then grab,leave it,smoke and grab,wait for team,2,Smoking the spike lets you grab safely.
+Bind,A,A Short,defusing spike,run away,use knife,peek and trade,wait for explosion,2,You must stop the defuse. Trading 1 for 1 can win the round.
+Bind,D,A Site,eco round,go alone,buy expensive gun,play for exit frags,full execute,2,Exit frags build economy and damage enemy money.
+Haven,A,C Site,operator holding angle,wide swing,smoke and flash,ignore the angle,slow peek,1,Utility counters OPs. Dry peeking an OP is death.
+Breeze,A,B Site,1v3 clutch,hide until time,isolate fights,fight all 3,give up,1,Isolating 1v1s is the only way to win 1vX.
+Pearl,D,Mid,post-plant 1v1,hunt the enemy,hide far from bomb,play the bomb,defuse immediately,2,In post-plant the bomb is your advantage.
+Haven,D,Garage,aggressive push,use ult,push alone,plant spike,fall back,3,Falling back against aggression allows your team to regroup and trade.
+Pearl,A,B Main,aggressive push,push alone,fall back,use ult,plant spike,1,Falling back against aggression allows your team to regroup and trade.
+Ascent,D,A Main,fake detected,push out,hold position,call for backup,full rotate,1,Holding against fakes prevents over-rotation.
+Split,A,A Site,enemy ult active,ignore it,use your ult,disengage,fight through it,2,Disengaging denies ult value.
+Fracture,A,A Main,planting spike,rush in alone,save weapon,play for retake,hide in corner,2,Retaking together with utility gives best odds.
+Breeze,D,A Site,defusing spike,use knife,run away,wait for explosion,peek and trade,3,You must stop the defuse. Trading 1 for 1 can win the round.
+Lotus,D,B Main,1v3 clutch,hide until time,fight all 3,isolate fights,give up,2,Isolating 1v1s is the only way to win 1vX.
+Lotus,A,B Site,lurker spotted,everyone peek,collapse on them,ignore them,all rotate,1,Collapsing on a lurker gets a free kill.
+Pearl,D,B Site,fake detected,call for backup,hold position,push out,full rotate,1,Holding against fakes prevents over-rotation.
+Lotus,D,A Main,smoke deployed,wait or rotate,flash yourself,run through smoke,spam through smoke,0,Pushing smokes blindly gets you killed.
+Breeze,A,Elbow,fake detected,push out,call for backup,full rotate,hold position,3,Holding against fakes prevents over-rotation.
+Haven,A,A Long,rush detected,peek them,rotate immediately,use utility to delay,save weapon,2,Utility slows rushes and buys time for rotations.
+Breeze,D,Mid,aggressive push,fall back,use ult,push alone,plant spike,0,Falling back against aggression allows your team to regroup and trade.
+Fracture,D,A Main,post-plant 1v1,hide far from bomb,play the bomb,hunt the enemy,defuse immediately,1,In post-plant the bomb is your advantage.
+Split,D,B Site,smoke deployed,run through smoke,wait or rotate,spam through smoke,flash yourself,1,Pushing smokes blindly gets you killed.

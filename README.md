@@ -212,3 +212,4 @@ Mohamed aziz ghazouani
 
 - Riot Games for Valorant
 - scikit-learn documentation
+- Dataset inspiration : hugging face / Dasun01 / valorant-strategies

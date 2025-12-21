@@ -204,7 +204,7 @@ MIT License - feel free to use and modify.
 
 ## Author
 
-Med Aziz GH
+Mohamed aziz ghazouani
 
 ---
 
@@ -212,4 +212,3 @@ Med Aziz GH
 
 - Riot Games for Valorant
 - scikit-learn documentation
-- Original cars prediction model for architecture reference
